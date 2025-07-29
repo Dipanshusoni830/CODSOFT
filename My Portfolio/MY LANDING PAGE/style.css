@@ -1,0 +1,36 @@
+h2{
+    color: blue;
+}
+p{
+    color: w=gainsboro;
+    font-size: 20px;
+}
+body{
+    background-color: gray;
+}
+h3{
+    color: blue;
+}
+#contact{
+    margin-right: 600px;
+}
+img{
+    border-radius:30px ;
+    width: 500px;
+    height: 450px;
+}
+h1{
+    color: blue;
+}
+.div1{
+    display: flex;
+    gap: 80px;
+
+}
+#id{
+    padding: 30px;
+    font-size: 25px;
+    font-family: 'Times New Roman', Times, serif;
+    color:darkblue;
+
+}
